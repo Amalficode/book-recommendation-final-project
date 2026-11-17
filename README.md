@@ -26,7 +26,7 @@
 1. **Popularity-Based**-рекомендации наиболее популярных книг.
 2. **Content-Based Filtering**-текстовые профили книг, TF-IDF и косинусное сходство.
 3. **Item-Based Collaborative Filtering**-сходство книг на основе пользовательских оценок.
-4. **TruncatedSVD** — матричная факторизация с 40 скрытыми факторами.
+4. **TruncatedSVD**-матричная факторизация с 40 скрытыми факторами.
 5. **Hybrid Recommendation System**-объединение классических алгоритмов.
 6. **Optimized Hybrid + MMR**-улучшенное ранжирование с балансировкой разнообразия.
 7. **Neural Collaborative Filtering (NCF)**-нейросетевая модель на PyTorch.
